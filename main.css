@@ -19,13 +19,14 @@ li {
 }
 #the {
     text-align: center;
-    background-image: url(best-burgers-toronto-14-drake-one-fifty.jpg);
+    background-image: url(Restaurant-Le-Meurice-Paris-Alamy-CINEMA.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    width: 100%;
+    width: auto;
     height: auto;
     color: black;
+    font-size: 19px;
 }
 .one {
     text-align: center;
@@ -43,4 +44,8 @@ td {
 .f1 {
     background-color: coral;
 }
-* {}
+#menu {
+    background-image: url(rbww_92.jpg);
+    width: auto;
+    height: auto;
+}
